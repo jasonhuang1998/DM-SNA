@@ -1,0 +1,10 @@
+3.0 4.0 ClusterID = 0
+2.0 6.0 ClusterID = 0
+3.0 8.0 ClusterID = 1
+4.0 7.0 ClusterID = 1
+6.0 2.0 ClusterID = 2
+6.0 3.0 ClusterID = 2
+7.0 3.0 ClusterID = 2
+7.0 4.0 ClusterID = 2
+8.0 5.0 ClusterID = 3
+7.0 6.0 ClusterID = 3
